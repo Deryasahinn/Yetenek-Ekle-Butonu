@@ -1,0 +1,34 @@
+#kutu{
+  background-color:MistyRose;
+  width:350px;
+  margin:auto;
+  margin-top:5%;
+  padding:10px;
+}
+.input{
+  width:90%;
+  margin-bottom:0px;
+  border:none;
+  height:24px;
+  background-color:MistyRose;
+  font-size:18px;
+  padding:5px 0px;
+}
+#kutu button{
+  border:none;
+  font-size:20px;
+  padding:6px 12px;
+  background-color:lightpink;
+  
+}
+h3{
+  font-size:28px;
+  color:deeppink;
+}
+.dilrow{
+  border:1px solid #ccc;
+  margin-bottom:10px;
+}
+.kirmizi{
+  color:red;
+}
